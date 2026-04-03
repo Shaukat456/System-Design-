@@ -15,12 +15,6 @@ This repository contains structured system design lessons and case studies for l
 3. After basics, move to advanced chapters in `Advance-System-Design/`.
 4. Apply theory by reading case studies in `Case-Studies/`.
 
-## Recommended workflow
-
-- Read each lesson and take notes.
-- Draw diagrams for major systems (load balancer, cache, database, message queues).
-- Do the design prompts yourself before comparing to stored solutions.
-
 ## Common interview system design checklist
 
 - Requirements (functional + non-functional)
@@ -30,14 +24,3 @@ This repository contains structured system design lessons and case studies for l
 - Caching strategy
 - Availability, consistency, partitioning
 - Monitoring, logging, and scaling
-
-## Contribution
-
-- Add or update lesson files with clear section headings.
-- Keep language concise and example-based.
-- File naming should remain explicit e.g. `Lesson_XX_Topic.md`.
-
-## Notes
-
-- This is a personal study collection and can be used for interview prep.
-- Customize template sections for your own system design practice.

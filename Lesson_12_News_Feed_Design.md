@@ -420,7 +420,7 @@ Based on engagement, recency, and user relationships.
 ### ❓ Q4: What happens when cache fails?
 
 ✔ Answer:
-Fallback to database query and regenerate feed.
+F allback to database query and regenerate feed.
 
 ---
 
