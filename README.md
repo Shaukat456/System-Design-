@@ -11,7 +11,7 @@ This repository contains structured system design lessons and case studies for l
 ## How to use
 
 1. Start with `Lesson_1_Introduction.md` and read sequentially through the foundations.
-2. Use `Lesson_2_Scalability.md`, `Lesson_3_Latency.md`, etc. to understand basic tradeoffs. 
+2. Use `Lesson_2_Scalability.md`, `Lesson_3_Latency.md`, etc. to understand basic tradeoffs.
 3. After basics, move to advanced chapters in `Advance-System-Design/`.
 4. Apply theory by reading case studies in `Case-Studies/`.
 
